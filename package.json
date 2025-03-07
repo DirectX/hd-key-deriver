@@ -1,0 +1,14 @@
+{
+  "name": "hd-keys-deriver",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "DirectX",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ethers": "^6.13.5"
+  }
+}
